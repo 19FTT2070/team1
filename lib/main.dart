@@ -24,3 +24,4 @@ class MyApp extends StatelessWidget {
         home: CategoryPage(category: categories.first),
       );
 }
+h

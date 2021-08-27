@@ -21,4 +21,3 @@ class Category {
     this.icon = FontAwesomeIcons.question,
   });
 }
-h
